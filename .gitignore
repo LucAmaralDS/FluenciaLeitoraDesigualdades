@@ -1,0 +1,19 @@
+# Dados do Equidade.info: NAO versionar (ver dados/README.md)
+dados/*
+!dados/README.md
+
+# Resultados gerados pelos scripts
+resultados/*
+!resultados/.gitkeep
+
+# Arquivos do R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+*.Rproj.user
+
+# Sistema
+.DS_Store
+Thumbs.db
+~$*
